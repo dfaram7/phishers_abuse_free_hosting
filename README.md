@@ -3,7 +3,7 @@ Last year I analysed a [phishing email](https://dfworks.xyz/blog/credential_stea
 
 yourjavascript.com is a free hosting site that relies on donations to continue functioning so probably can't be held accountable for what users host on the site nor have the resource to audit obfuscated code that has been uploaded. That being said, I was curious as to what other ways this free hosting site was being abused by malicious actors.
 
-The [jupyter notebook]() in this repository contains the code required to replicate the following steps (please clone/branch as you wish and amend the steps for your own research):
+The [jupyter notebook](https://github.com/dfaram7/phishers_abuse_free_hosting/blob/main/obfuscation_research.ipynb) in this repository contains the code required to replicate the following steps (please clone/branch as you wish and amend the steps for your own research):
 
 - Collate all the URLs for uploaded code on yourjavascript.com
 
